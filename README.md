@@ -3,6 +3,6 @@
 
 
 调用方法：
-<script src="https://cdn.valarx.com/sentence/sentence.js" charset="utf-8"></script>
+##<script src="https://cdn.valarx.com/sentence/sentence.js" charset="utf-8"></script>
 显示内容处：
-<span id="words" style="font-size: 2rem;">加载中。。</span>
+##<span id="words" style="font-size: 2rem;">加载中。。</span>
