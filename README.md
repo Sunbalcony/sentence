@@ -1,6 +1,6 @@
 # sentence
 一言api python
-
+感谢hitokoto大佬铺路
 
 调用方法：
 `<script src="https://cdn.valarx.com/sentence/sentence.js" charset="utf-8"></script>`
