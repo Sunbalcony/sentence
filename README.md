@@ -10,4 +10,4 @@
 
 
 
-http://www.valarx.com
+https://www.valarx.com
